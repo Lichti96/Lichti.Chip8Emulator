@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lichti.Chip8Emulator", "Lichti.Chip8Emulator\Lichti.Chip8Emulator.csproj", "{5CEA4547-C98C-4C63-B832-F8E23C61C2EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CEA4547-C98C-4C63-B832-F8E23C61C2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CEA4547-C98C-4C63-B832-F8E23C61C2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CEA4547-C98C-4C63-B832-F8E23C61C2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CEA4547-C98C-4C63-B832-F8E23C61C2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
